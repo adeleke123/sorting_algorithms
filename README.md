@@ -5,7 +5,7 @@ Algorithm
 Data structure
  By: Alexandre Gautier
  Weight: 2
- Project to be done in teams of 2 people (your team: Stephen Azosike, Ughasi Peter)
+ Project to be done by me)
  Project will start Nov 2, 2022 6:00 AM, must end by Nov 9, 2022 6:00 AM
  was released at Nov 4, 2022 12:00 AM
  An auto review will be launched at the deadline
